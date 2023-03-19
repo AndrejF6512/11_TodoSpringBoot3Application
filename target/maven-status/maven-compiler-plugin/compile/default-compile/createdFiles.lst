@@ -1,0 +1,6 @@
+com\foltan\todoapp\springboot3\controller\TodoFormController.class
+com\foltan\todoapp\springboot3\TodoSBoot3Application.class
+com\foltan\todoapp\springboot3\service\TodoItemService.class
+com\foltan\todoapp\springboot3\model\TodoItem.class
+com\foltan\todoapp\springboot3\controller\HomeController.class
+com\foltan\todoapp\springboot3\repository\TodoItemRepository.class
